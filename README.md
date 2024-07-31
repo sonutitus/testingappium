@@ -1,1 +1,1 @@
-test
+Test execution : Run the script test-mobile-Bstack to execute in browserstack
